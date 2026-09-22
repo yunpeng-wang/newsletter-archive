@@ -1,0 +1,16 @@
+img.mq-lihide,
+img.lihide {
+    display: none !important;
+}
+
+a {
+    pointer-events: none !important;
+    background-color: transparent !important;
+    color: #000 !important;
+    border: none !important;
+    text-decoration: none !important;
+}
+body{
+    background: url("../../static/paper-texture.webp");
+    background-repeat: repeat;
+}
