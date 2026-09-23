@@ -58,3 +58,6 @@ $RECYCLE.BIN/
 
 ### Python ###
 __pycache__/
+
+### Others ###
+*.eml
