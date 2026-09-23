@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "pixelfont";
+  src: url("../../static/boldpixels.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
 body {
   background-image: url("../../static/paper-texture.webp");
   background-repeat: repeat;
@@ -70,31 +78,30 @@ main {
     padding: 8px;
     border-radius: 8px;
     transition: all 0.2s ease;
+    border: 3px solid;
 
     &.Authers {
-      background-color: #f9cbb888;
+      border-color: #f9cbb899;
     }
     &.Levine {
-      background-color: #cdf0cd88;
+      border-color: #cdf0cd99;
     }
 
     &:hover {
-      box-shadow: 4px 4px 4px #333a;;
+      transform: translateX(-10px);
     }
 
     & h1 {
-      font-size: 20px;
+      font-size: 18px;
     }
     & div {
       display: flex;
+      justify-content: space-between;
       gap: 4px;
 
       & span {
         color: grey;
-      }
-
-      & span:nth-child(2)::before {
-        content: " · ";
+        font-size: 14px;
       }
     }
     & a {
@@ -111,17 +118,24 @@ main {
   user-select: none;
 
   & button {
+    border: 2px solid black;
     border-radius: 4px;
+    background: transparent;
     cursor: pointer;
+  }
+
+  & span {
+    color: grey;
   }
 }
 
 footer {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
   gap: 5px;
   height: 36px;
-  align-items: center;
   color: gray;
-  font-size: 14px;
+  font-size: 12px;
 }
