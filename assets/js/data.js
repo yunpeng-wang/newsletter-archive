@@ -1,4 +1,7 @@
 const articleData = [
+  '<article class="Levine"><h1>Money Stuff: Morgan Stanley Leaked Some Deals</h1><div><span>2026-09-24</span><span>Matt Levine</span></div><a href="./news/20260924-181720.html"></a></article>',
+  '<article class="Authers"><h1>Bond yields return to 2007, but it could be worse</h1><div><span>2026-09-24</span><span>John Authers</span></div><a href="./news/20260924-040056.html"></a></article>',
+  '<article class="Levine"><h1>Money Stuff: Kalshi Levers the Predictions</h1><div><span>2026-09-23</span><span>Matt Levine</span></div><a href="./news/20260923-183428.html"></a></article>',
   '<article class="Authers"><h1>Never have stocks owed so much to so few</h1><div><span>2026-09-23</span><span>John Authers</span></div><a href="./news/20260923-040410.html"></a></article>',
   '<article class="Levine"><h1>Money Stuff: Who Cares If a Merger Is Fair?</h1><div><span>2026-09-22</span><span>Matt Levine</span></div><a href="./news/20260922-183124.html"></a></article>',
   '<article class="Authers"><h1>AIndicators: Hiking cycle is a red-flag moment</h1><div><span>2026-09-21</span><span>John Authers</span></div><a href="./news/20260921-040047.html"></a></article>',
