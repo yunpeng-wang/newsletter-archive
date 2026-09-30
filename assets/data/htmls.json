@@ -196,5 +196,29 @@
     "date": "2026-09-23 18:34:28",
     "href": "./news/20260923-183428.html",
     "author": "Matt Levine"
+  },
+  "20260929-040155": {
+    "title": "What’s going to break in the bondpocalypse?",
+    "date": "2026-09-29 04:01:55",
+    "href": "./news/20260929-040155.html",
+    "author": "John Authers"
+  },
+  "20260928-042618": {
+    "title": "The bond rout has a silver lining",
+    "date": "2026-09-28 04:26:18",
+    "href": "./news/20260928-042618.html",
+    "author": "John Authers"
+  },
+  "20260928-180426": {
+    "title": "Money Stuff: Banks Recycle the Risk",
+    "date": "2026-09-28 18:04:26",
+    "href": "./news/20260928-180426.html",
+    "author": "Matt Levine"
+  },
+  "20260929-182505": {
+    "title": "Money Stuff: Is Existential Risk Securities Fraud?",
+    "date": "2026-09-29 18:25:05",
+    "href": "./news/20260929-182505.html",
+    "author": "Matt Levine"
   }
 }

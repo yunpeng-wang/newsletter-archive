@@ -1,4 +1,8 @@
 const articleData = [
+  '<article class="Levine"><h1>Money Stuff: Is Existential Risk Securities Fraud?</h1><div><span>2026-09-29</span><span>Matt Levine</span></div><a href="./news/20260929-182505.html"></a></article>',
+  '<article class="Authers"><h1>What’s going to break in the bondpocalypse?</h1><div><span>2026-09-29</span><span>John Authers</span></div><a href="./news/20260929-040155.html"></a></article>',
+  '<article class="Levine"><h1>Money Stuff: Banks Recycle the Risk</h1><div><span>2026-09-28</span><span>Matt Levine</span></div><a href="./news/20260928-180426.html"></a></article>',
+  '<article class="Authers"><h1>The bond rout has a silver lining</h1><div><span>2026-09-28</span><span>John Authers</span></div><a href="./news/20260928-042618.html"></a></article>',
   '<article class="Levine"><h1>Money Stuff: Morgan Stanley Leaked Some Deals</h1><div><span>2026-09-24</span><span>Matt Levine</span></div><a href="./news/20260924-181720.html"></a></article>',
   '<article class="Authers"><h1>Bond yields return to 2007, but it could be worse</h1><div><span>2026-09-24</span><span>John Authers</span></div><a href="./news/20260924-040056.html"></a></article>',
   '<article class="Levine"><h1>Money Stuff: Kalshi Levers the Predictions</h1><div><span>2026-09-23</span><span>Matt Levine</span></div><a href="./news/20260923-183428.html"></a></article>',
