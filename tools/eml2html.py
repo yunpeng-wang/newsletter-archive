@@ -106,7 +106,7 @@ if __name__ == "__main__":
 
         with open(html_folder / (dataname + ".html"), "w", encoding="utf-8") as f:
             f.write(html_for_web)
-        print(f"{file_name} --> Converted")
+        print(f"🟢{file_name} --> Converted")
 
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(json_dict, f, indent=2, ensure_ascii=False)
