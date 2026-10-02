@@ -1,3 +1,7 @@
+"""
+in: .eml
+out: .html and htmls.json
+"""
 import email
 from email import policy
 from email.utils import parsedate_to_datetime

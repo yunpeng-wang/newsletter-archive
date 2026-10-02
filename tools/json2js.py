@@ -1,3 +1,7 @@
+"""
+in: htmls.json
+out: data.js
+"""
 from pathlib import Path
 import json
 

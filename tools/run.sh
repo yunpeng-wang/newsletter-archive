@@ -6,6 +6,6 @@ cd "$(dirname "$0")/.."
 
 # Python 预处理
 python3 ./tools/eml2html.py
-python3 ./tools/create_index.py
+python3 ./tools/json2js.py
 
 echo "Build complete"
