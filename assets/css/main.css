@@ -31,6 +31,20 @@ header {
   font-size: 32px;
   font-weight: bolder;
   height: 36px;
+  display: flex;
+  align-items: center;
+
+  &::before {
+    content: "";
+    background-image: url("../../icon.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+    width: 32px;
+    aspect-ratio: 1/1;
+    margin-right: 8px;
+  }
 }
 
 main {
