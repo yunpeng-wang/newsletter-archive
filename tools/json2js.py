@@ -22,9 +22,9 @@ def natural_sort(items, key=None, reverse=False):
     return sorted(items, key=_natural_key, reverse=reverse)
 
 
-def create_elements(title, date, author, href):
+def create_elements(id, title, date, author, href):
     fm = author.split(" ")[-1]
-    text = "'" + f"""<article class="{fm}">
+    text = "'" + f"""<article class="{fm}" data-id="{id}">
             <h1>{title}</h1>
             <div>
                 <span>{date.split(" ")[0]}</span>
@@ -46,6 +46,7 @@ if json_path.exists():
     for key in keys_list:
         content.append(
             create_elements(
+                key,
                 json_dict[key]["title"],
                 json_dict[key]["date"],
                 json_dict[key]["author"],

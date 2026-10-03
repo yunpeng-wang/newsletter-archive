@@ -1,7 +1,8 @@
 """
 in: .eml
-out: .html and htmls.json
+out: .html, htmls.json, update.js
 """
+
 import email
 from email import policy
 from email.utils import parsedate_to_datetime
@@ -81,9 +82,10 @@ if __name__ == "__main__":
     TOOL_PATH = Path(__file__).resolve()
     html_folder = TOOL_PATH.parent.parent / "news"
     json_path = TOOL_PATH.parent.parent / "assets" / "data" / "htmls.json"
+    js_path = TOOL_PATH.parent.parent / "assets" / "js" / "update.js"
 
     eml_folder = Path(r"/Users/wang/Downloads")
-
+    js_content = []
     if json_path.exists():
         with open(json_path, "r", encoding="utf-8") as f:
             json_dict = json.load(f)
@@ -112,5 +114,11 @@ if __name__ == "__main__":
             f.write(html_for_web)
         print(f"🟢{file_name} --> Converted")
 
+        js_content.append(f'"{dataname}",')
+
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(json_dict, f, indent=2, ensure_ascii=False)
+
+    if js_content:
+        with open(js_path, "w", encoding="utf-8") as f:
+            f.write("const updateData = [\n  " + "\n  ".join(js_content) + "\n];")

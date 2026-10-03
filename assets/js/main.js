@@ -13,6 +13,15 @@ let totalPages;
 let currentPage = 1;
 let currentTag = "All";
 
+function addNewClass() {
+  for (n = 0; n < updateData.length; n++) {
+    let newArticle = posts.querySelector(`article[data-id="${updateData[n]}"]`);
+    if (newArticle) {
+      newArticle.classList.add("new");
+    }
+  }
+}
+
 function updateMain() {
   posts.innerHTML = "";
   content = "";
@@ -28,6 +37,8 @@ function updateMain() {
 
   posts.innerHTML = content;
   pagerText.innerHTML = String(currentPage) + "/" + String(totalPages);
+
+  addNewClass();
 }
 
 function filterData() {
