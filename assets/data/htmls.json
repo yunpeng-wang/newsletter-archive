@@ -244,5 +244,29 @@
     "date": "2026-10-02 04:00:16",
     "href": "./news/20261002-040016.html",
     "author": "John Authers"
+  },
+  "20261006-040014": {
+    "title": "A top-heavy stocks rally is daring bond yields to break it",
+    "date": "2026-10-06 04:00:14",
+    "href": "./news/20261006-040014.html",
+    "author": "John Authers"
+  },
+  "20261005-181129": {
+    "title": "Money Stuff: Mergers and Acqui-hires",
+    "date": "2026-10-05 18:11:29",
+    "href": "./news/20261005-181129.html",
+    "author": "Matt Levine"
+  },
+  "20261007-040020": {
+    "title": "Sesame Street meets Wall Street’s record rally",
+    "date": "2026-10-07 04:00:20",
+    "href": "./news/20261007-040020.html",
+    "author": "John Authers"
+  },
+  "20261006-183706": {
+    "title": "Money Stuff: Treasury Futures Might Switch",
+    "date": "2026-10-06 18:37:06",
+    "href": "./news/20261006-183706.html",
+    "author": "Matt Levine"
   }
 }
