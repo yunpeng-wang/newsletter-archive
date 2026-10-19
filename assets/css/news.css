@@ -1,16 +1,41 @@
 img.mq-lihide,
 img.lihide {
-    display: none !important;
+  display: none !important;
 }
 
 a {
-    pointer-events: none !important;
-    background-color: transparent !important;
-    color: #000 !important;
-    border: none !important;
-    text-decoration: none !important;
+  pointer-events: none !important;
+  background-color: transparent !important;
+  color: #000 !important;
+  border: none !important;
+  text-decoration: none !important;
 }
-body{
-    background: url("../../static/paper-texture.webp");
-    background-repeat: repeat;
+body {
+  position: relative;
+  background: url("../../static/paper-texture.webp");
+  background-repeat: repeat;
+}
+
+button.returnbtn {
+  background: none;
+  border: none;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  padding: 4px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.2s ease;
+
+  & svg {
+    width: 30px;
+    aspect-ratio: 1/1;
+    opacity: 0.5;
+  }
+
+  &:hover {
+    transform: scale(1.1);
+  }
 }
