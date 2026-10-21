@@ -328,5 +328,29 @@
     "date": "2026-10-15 04:08:40",
     "href": "./news/20261015-040840.html",
     "author": "John Authers"
+  },
+  "20261019-182852": {
+    "title": "Money Stuff: Universal Basic AI",
+    "date": "2026-10-19 18:28:52",
+    "href": "./news/20261019-182852.html",
+    "author": "Matt Levine"
+  },
+  "20261019-043803": {
+    "title": "France may wait for Le Pen, but markets won’t",
+    "date": "2026-10-19 04:38:03",
+    "href": "./news/20261019-043803.html",
+    "author": "John Authers"
+  },
+  "20261020-183155": {
+    "title": "Money Stuff: Someone Has to Take the AI Risk",
+    "date": "2026-10-20 18:31:55",
+    "href": "./news/20261020-183155.html",
+    "author": "Matt Levine"
+  },
+  "20261020-040057": {
+    "title": "CoreWeave panic looks more like 2023 than 2007",
+    "date": "2026-10-20 04:00:57",
+    "href": "./news/20261020-040057.html",
+    "author": "John Authers"
   }
 }
