@@ -376,5 +376,17 @@
     "date": "2026-10-22 04:04:28",
     "href": "./news/20261022-040428.html",
     "author": "John Authers"
+  },
+  "20261026-040023": {
+    "title": "Surfing the AI:bond wave in increments of fear",
+    "date": "2026-10-26 04:00:23",
+    "href": "./news/20261026-040023.html",
+    "author": "John Authers"
+  },
+  "20261026-182409": {
+    "title": "Money Stuff: Anthropic Raises Concerns",
+    "date": "2026-10-26 18:24:09",
+    "href": "./news/20261026-182409.html",
+    "author": "Matt Levine"
   }
 }
