@@ -1,4 +1,8 @@
 const articleData = [
+  '<article class="Levine" data-id="20261029-183420"><h1>Money Stuff: Run on the Law Firm</h1><div><span>2026-10-29</span><span>Matt Levine</span></div><a href="./news/20261029-183420.html"></a></article>',
+  '<article class="Authers" data-id="20261029-040025"><h1>Lord, let me hike rates, just not now</h1><div><span>2026-10-29</span><span>John Authers</span></div><a href="./news/20261029-040025.html"></a></article>',
+  '<article class="Levine" data-id="20261028-180044"><h1>Money Stuff: Not Your Keys, Not Your DAT</h1><div><span>2026-10-28</span><span>Matt Levine</span></div><a href="./news/20261028-180044.html"></a></article>',
+  '<article class="Authers" data-id="20261028-040138"><h1>1999 Vs. These IPOs Is Apples to Bowling Balls</h1><div><span>2026-10-28</span><span>John Authers</span></div><a href="./news/20261028-040138.html"></a></article>',
   '<article class="Levine" data-id="20261027-182239"><h1>Money Stuff: Musk’s Mars Merger Pay</h1><div><span>2026-10-27</span><span>Matt Levine</span></div><a href="./news/20261027-182239.html"></a></article>',
   '<article class="Authers" data-id="20261027-041247"><h1>Be-Bop-a-Lula, Brazil’s Black Monday</h1><div><span>2026-10-27</span><span>John Authers</span></div><a href="./news/20261027-041247.html"></a></article>',
   '<article class="Levine" data-id="20261026-182409"><h1>Money Stuff: Anthropic Raises Concerns</h1><div><span>2026-10-26</span><span>Matt Levine</span></div><a href="./news/20261026-182409.html"></a></article>',
