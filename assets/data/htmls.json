@@ -424,5 +424,29 @@
     "date": "2026-10-29 04:00:25",
     "href": "./news/20261029-040025.html",
     "author": "John Authers"
+  },
+  "20261102-191631": {
+    "title": "Money Stuff: Binance Got Some Money Back",
+    "date": "2026-11-02 19:16:31",
+    "href": "./news/20261102-191631.html",
+    "author": "Matt Levine"
+  },
+  "20261103-193207": {
+    "title": "Money Stuff: How Much Should Anthropic Pop?",
+    "date": "2026-11-03 19:32:07",
+    "href": "./news/20261103-193207.html",
+    "author": "Matt Levine"
+  },
+  "20261103-040025": {
+    "title": "Ahead of midterms, oil markets were voting for war",
+    "date": "2026-11-03 04:00:25",
+    "href": "./news/20261103-040025.html",
+    "author": "John Authers"
+  },
+  "20261102-040028": {
+    "title": "Each selloff brings AI’s day of reckoning closer",
+    "date": "2026-11-02 04:00:28",
+    "href": "./news/20261102-040028.html",
+    "author": "John Authers"
   }
 }
