@@ -448,5 +448,29 @@
     "date": "2026-11-02 04:00:28",
     "href": "./news/20261102-040028.html",
     "author": "John Authers"
+  },
+  "20261104-185512": {
+    "title": "Money Stuff: The Midterm Predictions Were Good",
+    "date": "2026-11-04 18:55:12",
+    "href": "./news/20261104-185512.html",
+    "author": "Matt Levine"
+  },
+  "20261105-193050": {
+    "title": "Money Stuff: Financial Predictionization",
+    "date": "2026-11-05 19:30:50",
+    "href": "./news/20261105-193050.html",
+    "author": "Matt Levine"
+  },
+  "20261104-041516": {
+    "title": "The size of the wave confronts markets",
+    "date": "2026-11-04 04:15:16",
+    "href": "./news/20261104-041516.html",
+    "author": "John Authers"
+  },
+  "20261105-040025": {
+    "title": "Markets seem to like the new deadlock",
+    "date": "2026-11-05 04:00:25",
+    "href": "./news/20261105-040025.html",
+    "author": "John Authers"
   }
 }
