@@ -472,5 +472,29 @@
     "date": "2026-11-05 04:00:25",
     "href": "./news/20261105-040025.html",
     "author": "John Authers"
+  },
+  "20261110-193235": {
+    "title": "Money Stuff: Anthropic Has Some Anchor Investors",
+    "date": "2026-11-10 19:32:35",
+    "href": "./news/20261110-193235.html",
+    "author": "Matt Levine"
+  },
+  "20261109-190151": {
+    "title": "Money Stuff: Is the Nvidia Affair Securities Fraud?",
+    "date": "2026-11-09 19:01:51",
+    "href": "./news/20261109-190151.html",
+    "author": "Matt Levine"
+  },
+  "20261109-040353": {
+    "title": "The third correction in Trump 2.0 years",
+    "date": "2026-11-09 04:03:53",
+    "href": "./news/20261109-040353.html",
+    "author": "John Authers"
+  },
+  "20261110-041459": {
+    "title": "Milei puts away the chainsaw for a papal visit",
+    "date": "2026-11-10 04:14:59",
+    "href": "./news/20261110-041459.html",
+    "author": "John Authers"
   }
 }
