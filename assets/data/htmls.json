@@ -496,5 +496,23 @@
     "date": "2026-11-10 04:14:59",
     "href": "./news/20261110-041459.html",
     "author": "John Authers"
+  },
+  "20261112-050055": {
+    "title": "Ritual CEO sacrifice is looming over Jensen Huang",
+    "date": "2026-11-12 05:00:55",
+    "href": "./news/20261112-050055.html",
+    "author": "John Authers"
+  },
+  "20261112-183638": {
+    "title": "Money Stuff: Nvidia’s Board Had to Do Something",
+    "date": "2026-11-12 18:36:38",
+    "href": "./news/20261112-183638.html",
+    "author": "Matt Levine"
+  },
+  "20261111-040152": {
+    "title": "Skipping a rate hike doesn’t look so clever now",
+    "date": "2026-11-11 04:01:52",
+    "href": "./news/20261111-040152.html",
+    "author": "John Authers"
   }
 }
