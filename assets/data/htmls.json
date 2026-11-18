@@ -514,5 +514,29 @@
     "date": "2026-11-11 04:01:52",
     "href": "./news/20261111-040152.html",
     "author": "John Authers"
+  },
+  "20261117-040014": {
+    "title": "The Huang debacle is delivering a stress test",
+    "date": "2026-11-17 04:00:14",
+    "href": "./news/20261117-040014.html",
+    "author": "John Authers"
+  },
+  "20261116-193758": {
+    "title": "Money Stuff: People Miss Jensen Huang Already",
+    "date": "2026-11-16 19:37:58",
+    "href": "./news/20261116-193758.html",
+    "author": "Matt Levine"
+  },
+  "20261117-193014": {
+    "title": "Money Stuff: The Agents Will Trade the Bonds",
+    "date": "2026-11-17 19:30:14",
+    "href": "./news/20261117-193014.html",
+    "author": "Matt Levine"
+  },
+  "20261116-040021": {
+    "title": "After the Huang scandal, AIndicators look shakier",
+    "date": "2026-11-16 04:00:21",
+    "href": "./news/20261116-040021.html",
+    "author": "John Authers"
   }
 }
