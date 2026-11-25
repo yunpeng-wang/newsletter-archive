@@ -562,5 +562,29 @@
     "date": "2026-11-18 04:05:57",
     "href": "./news/20261118-040557.html",
     "author": "John Authers"
+  },
+  "20261123-040035": {
+    "title": "Just Be Thankful It’s a Short Week",
+    "date": "2026-11-23 04:00:35",
+    "href": "./news/20261123-040035.html",
+    "author": "John Authers"
+  },
+  "20261124-191742": {
+    "title": "Money Stuff: Anthropic Drops",
+    "date": "2026-11-24 19:17:42",
+    "href": "./news/20261124-191742.html",
+    "author": "Matt Levine"
+  },
+  "20261124-040012": {
+    "title": "Huang bounce can’t hide the dead cats ",
+    "date": "2026-11-24 04:00:12",
+    "href": "./news/20261124-040012.html",
+    "author": "John Authers"
+  },
+  "20261123-181051": {
+    "title": "Money Stuff: Jensen’s Candor Is Satisfactory Now",
+    "date": "2026-11-23 18:10:51",
+    "href": "./news/20261123-181051.html",
+    "author": "Matt Levine"
   }
 }

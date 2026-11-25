@@ -1,4 +1,8 @@
 const articleData = [
+  '<article class="Levine" data-id="20261124-191742"><h1>Money Stuff: Anthropic Drops</h1><div><span>2026-11-24</span><span>Matt Levine</span></div><a href="./news/20261124-191742.html"></a></article>',
+  '<article class="Authers" data-id="20261124-040012"><h1>Huang bounce can’t hide the dead cats </h1><div><span>2026-11-24</span><span>John Authers</span></div><a href="./news/20261124-040012.html"></a></article>',
+  '<article class="Levine" data-id="20261123-181051"><h1>Money Stuff: Jensen’s Candor Is Satisfactory Now</h1><div><span>2026-11-23</span><span>Matt Levine</span></div><a href="./news/20261123-181051.html"></a></article>',
+  '<article class="Authers" data-id="20261123-040035"><h1>Just Be Thankful It’s a Short Week</h1><div><span>2026-11-23</span><span>John Authers</span></div><a href="./news/20261123-040035.html"></a></article>',
   '<article class="Levine" data-id="20261119-190954"><h1>Money Stuff: Anthropic Pops</h1><div><span>2026-11-19</span><span>Matt Levine</span></div><a href="./news/20261119-190954.html"></a></article>',
   '<article class="Authers" data-id="20261119-040015"><h1>The IPOs will get harder from here</h1><div><span>2026-11-19</span><span>John Authers</span></div><a href="./news/20261119-040015.html"></a></article>',
   '<article class="Levine" data-id="20261118-190555"><h1>Money Stuff: A Lot of People Want Anthropic Stock</h1><div><span>2026-11-18</span><span>Matt Levine</span></div><a href="./news/20261118-190555.html"></a></article>',
