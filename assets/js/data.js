@@ -1,4 +1,6 @@
 const articleData = [
+  '<article class="Authers" data-id="20261126-043455"><h1>Is this Thanksgiving or Groundhog Day in markets?</h1><div><span>2026-11-26</span><span>John Authers</span></div><a href="./news/20261126-043455.html"></a></article>',
+  '<article class="Authers" data-id="20261125-040346"><h1>‘Huang put’ is the Fed’s Thanksgiving pardon</h1><div><span>2026-11-25</span><span>John Authers</span></div><a href="./news/20261125-040346.html"></a></article>',
   '<article class="Levine" data-id="20261124-191742"><h1>Money Stuff: Anthropic Drops</h1><div><span>2026-11-24</span><span>Matt Levine</span></div><a href="./news/20261124-191742.html"></a></article>',
   '<article class="Authers" data-id="20261124-040012"><h1>Huang bounce can’t hide the dead cats </h1><div><span>2026-11-24</span><span>John Authers</span></div><a href="./news/20261124-040012.html"></a></article>',
   '<article class="Levine" data-id="20261123-181051"><h1>Money Stuff: Jensen’s Candor Is Satisfactory Now</h1><div><span>2026-11-23</span><span>Matt Levine</span></div><a href="./news/20261123-181051.html"></a></article>',
